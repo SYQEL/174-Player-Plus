@@ -1,7 +1,5 @@
 # 🎵 174 Player Plus – Real-Time Solfeggio Frequency Retuning 🎶  
 
-![174 Player Plus](https://your-image-url.com/banner.png)  
-
 ### Transform Your Music with Healing Frequencies  
 
 **174 Player Plus** is an advanced music player that seamlessly **retunes any audio** in real-time to the **Solfeggio Frequency - 174 Hz**, unlocking the full potential of sound for relaxation, meditation, and healing.  
