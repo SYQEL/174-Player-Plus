@@ -29,8 +29,8 @@
 ---
 
 ## 📥 Download & Get Started  
-🔹 **[Official Website]([https://174.com](https://174playerplus.com/))**  
-🔹 **[Download Latest Release]([https://github.com/your-repo](https://github.com/SYQEL/174-Player-Plus/releases/)](https://github.com/SYQEL/174-Player-Plus/releases/))**  
+🔹 **[https://174.com](https://174playerplus.com/)**  
+🔹 **[Download Latest Release](https://github.com/SYQEL/174-Player-Plus/releases/)**  
 
 ---
 
@@ -44,7 +44,7 @@
 ## 🛠 Contribute & Support  
 We welcome contributions, feedback, and suggestions! Join us on GitHub to improve **174 Player Plus** together.  
 
-💬 **Join the Discussion**: [GitHub Issues](https://github.com/your-repo/issues)  
+💬 **Join the Discussion**: [GitHub Issues](https://github.com/SYQEL/174-Player-Plus/issues)  
 ⭐ **Star this Repo** if you love **174 Player Plus**!  
 
 ---
