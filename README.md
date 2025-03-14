@@ -29,7 +29,7 @@
 ---
 
 ## 📥 Download & Get Started  
-🔹 **[https://174.com](https://174playerplus.com/)**  
+🔹 **[https://174playerplus.com](https://174playerplus.com/)**  
 🔹 **[Download Latest Release](https://github.com/SYQEL/174-Player-Plus/releases/)**  
 
 ---
